@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name": "Rajesh Gudlavalleti",
+    "occupation": "Business Technology Analyst @Deloitte India(Office of the US)",
+    "description": "System Engineer at Deloitte by day, coder by night @ Gamer during weekends ",
+    "image": "Me.jpg",
+    "bio": "My name is Rajesh, I'm a System Engineer working at Hyderabad. Currently I am a Full Time Employee at Deloitte & I have a keen interest in Programming especially working in Web and Mobile Applications and In the future I aim to Work in the Software Field",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "rajeshgudlavalleti@gmail.com",
+    "phone": "+91 6281834480",
+    "address": {
+      "street": "MVP Colony",
+      "city": "Visakhapatnam",
+      "country": "India",
+      "zip": "531011"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1rO95sCSulFyn7B26SeO541o5A8PXVwwq/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/RNS1198",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rajesh98/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/rajesh_gudlavalleti/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/GRajesh1198",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "It's not what you achieve, it's what you overcome",
+    "education": [
+      {
+        "school": "Birla Institute of Technology",
+        "degree": "Electronics and communication Enginner",
+        "graduated": "June 2020",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Deloitte India(Office of the US)",
+        "title": "Businees Technology Analyst",
+        "years": "September 2020 - Present",
+        "description": "System Engineer"
+      }
+      
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "level": "95%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "60%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "JAVA",
+        "level": "40%"
+      },
+      {
+        "name": "SQL",
+        "level": "40%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Full Stack Open-2020",
+        "category": "Deep Dive Into Modern Web Development",
+        "image": "Screenshot.png",
+        "url": "https://fullstackopen.com/en"
+      },
+      {
+        "title": "Phonebook App",
+        "category": "Built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "index.jpg",
+        "url": "https://github.com/GRajesh1198/FullStackOpen"
+      },
+      {
+        "title": "Band App",
+        "category": "Built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "index1.png",
+        "url": "https://github.com/GRajesh1198/band_final"
+      },
+      {
+        "title": "City Details",
+        "category": "Built With Javascript,HTML & CSS",
+        "image": "index2.png",
+        "url": "https://github.com/codeasylums-bootcamp/rosinate_may-19"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "You made it so simple. My new site is so much faster and easier to work with than my old site. I just choose the page, make the change and click save.",
+        "user": "Rohith Nemeli"
+      },
+      {
+        "text": "Rajesh can be one of the most brilliant developers and works very hard to make sure he delivers the projects. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Sai Jyothi Chopalli"
+      }
+    ]
+  }
+}
